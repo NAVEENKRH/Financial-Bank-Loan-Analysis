@@ -29,5 +29,10 @@ I also created visualizations using Power BI, including:
 
 The 'Details Dashboard' was designed to offer a holistic snapshot of key loan-related metrics, ensuring that users can access vital loan data efficiently.
 
+
 **Result:**  
 The implementation of this detailed report and dashboard allowed the bank to gain actionable insights into its lending operations. The clear visualizations and grid views facilitated better understanding among stakeholders, leading to improved decision-making and a more robust assessment of the loan portfolio's health. As a result, the bank has enhanced its ability to manage risks and optimize its lending strategies.
+
+
+[Project Link](https://app.powerbi.com/view?r=eyJrIjoiOTY5MDUxMTUtMTZmYi00MTBmLThjOTctZjE3OWE4MjNiOWMzIiwidCI6ImNkZGIwNzgzLTcwNDYtNDhhNi04YTE5LWZjY2I5Zjg0MDZlYiJ9&embedImagePlaceholder=true)
+
