@@ -1,45 +1,31 @@
-# Bank Loan Analysis
+## Project Overview
 
-## Overview
-This project provides a comprehensive analysis of bank loan data using SQL for data querying and Power BI for visualization. The goal is to understand loan applications, funded amounts, received amounts, interest rates, and more.
+### Problem Statement (STAR Method)
 
-## Project Structure
-- **SQL Scripts**: Contains SQL scripts used for data analysis.
-- **Power BI Dashboard**: The Power BI file showcasing various dashboards.
-- **Data**: Raw and cleaned data files (if included).
+**Situation:**  
+The bank is facing challenges in effectively monitoring the performance of its loan portfolio. There is a need for better visibility into key metrics related to loan applications, funded amounts, and borrower profiles. This lack of comprehensive data insights hinders decision-making processes, leading to potential risks in the lending operations.
 
-## Key Insights
-- **Total Loan Applications**: Number of loan applications received over time.
-- **Total Funded Amount**: Amount of funds disbursed as loans.
-- **Total Amount Received**: Amount received from borrowers.
-- **Average Interest Rate**: Average interest rate across loans.
-- **Debt-to-Income Ratio**: Average debt-to-income ratio for borrowers.
+**Task:**  
+We need to create a detailed report and dashboard that categorizes loans by their status (Good vs. Bad) and includes key performance indicators (KPIs). The report should provide insights into various metrics such as total loan applications, total funded amounts, and average interest rates. Additionally, we must visualize trends, regional analyses, and loan purposes to help stakeholders understand the lending landscape and inform strategic decisions.
 
-## Dashboards
-### Dashboard 1: Summary
-- Key Performance Indicators (KPIs)
-- Good Loan vs Bad Loan Metrics
+**Action:**  
+I developed a comprehensive grid view report categorized by 'Loan Status,' showcasing metrics such as:
+- Total Loan Applications
+- Total Funded Amount
+- Total Amount Received
+- Month-to-Date (MTD) Funded Amount
+- MTD Amount Received
+- Average Interest Rate
+- Average Debt-to-Income Ratio (DTI)
 
-### Dashboard 2: Overview
-- Monthly Trends
-- Regional Analysis
-- Loan Term and Purpose Breakdown
-- Home Ownership Analysis
+I also created visualizations using Power BI, including:
+- A line chart for monthly trends by issue date to identify seasonality
+- A filled map for regional analysis to pinpoint lending activity hotspots
+- A donut chart for loan term distribution
+- A bar chart for employee length analysis
+- A tree map for home ownership analysis
 
-### Dashboard 3: Details
-- Comprehensive view of loan data metrics
+The 'Details Dashboard' was designed to offer a holistic snapshot of key loan-related metrics, ensuring that users can access vital loan data efficiently.
 
-## Tools Used
-- **SQL Server**: For data storage and querying.
-- **Power BI**: For data visualization.
-- **Excel**: For initial data cleaning.
-
-## How to Use
-1. Clone the repository to your local machine.
-2. Open the SQL scripts in your SQL Server Management Studio and execute them to create the database and tables.
-3. Import the data into the SQL Server database.
-4. Open the Power BI file and connect it to your SQL Server database.
-5. Explore the dashboards to gain insights.
-
-## Contact
-For any questions or feedback, please contact [Your Name] at [Your Email].
+**Result:**  
+The implementation of this detailed report and dashboard allowed the bank to gain actionable insights into its lending operations. The clear visualizations and grid views facilitated better understanding among stakeholders, leading to improved decision-making and a more robust assessment of the loan portfolio's health. As a result, the bank has enhanced its ability to manage risks and optimize its lending strategies.
