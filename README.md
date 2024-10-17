@@ -1,11 +1,12 @@
 # BANK LOAN ANALYSIS PROJECT
-![image alt](https://github.com/NAVEENKRH/Financial-Bank-Loan-Analysis/blob/c56a614011a780ae0f005e8a922a90c1f6fc2356/Assets/Thumbnail.png)
 ## Project Overview
 
 ### Problem Statement (STAR Method)
 
 **Situation:**  
 The bank is facing challenges in effectively monitoring the performance of its loan portfolio. There is a need for better visibility into key metrics related to loan applications, funded amounts, and borrower profiles. This lack of comprehensive data insights hinders decision-making processes, leading to potential risks in the lending operations.
+
+![image alt](https://github.com/NAVEENKRH/Financial-Bank-Loan-Analysis/blob/c56a614011a780ae0f005e8a922a90c1f6fc2356/Assets/Thumbnail.png)
 
 **Task:**  
 We need to create a detailed report and dashboard that categorizes loans by their status (Good vs. Bad) and includes key performance indicators (KPIs). The report should provide insights into various metrics such as total loan applications, total funded amounts, and average interest rates. Additionally, we must visualize trends, regional analyses, and loan purposes to help stakeholders understand the lending landscape and inform strategic decisions.
