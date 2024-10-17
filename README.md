@@ -1,3 +1,5 @@
+# BANK LOAN ANALYSIS PROJECT
+![image alt](https://github.com/NAVEENKRH/Financial-Bank-Loan-Analysis/blob/c56a614011a780ae0f005e8a922a90c1f6fc2356/Assets/Thumbnail.png)
 ## Project Overview
 
 ### Problem Statement (STAR Method)
